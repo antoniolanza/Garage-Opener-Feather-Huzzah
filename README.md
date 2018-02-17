@@ -1,7 +1,7 @@
 # Garage-Opener-Feather-Huzzah
 Control garage door with phone 
 Thingsneeded :
-  Feather Huzzah: https://www.adafruit.com/product/2821
+  Feather Huzzah: https://www.adafruit.com/product/2821 \n
   FeatherWing Latching Relay: https://www.adafruit.com/product/2923
   Magnetic Switch: https://www.amazon.ca/Directed-Electronics-8601-Magnetic-Switch/dp/B0009SUF08/ref=sr_1_1?ie=UTF8&qid=1518846927&sr=8-1&keywords=magnetic+switch&dpID=41DVM6RPZAL&preST=_SY300_QL70_&dpSrc=srch
   Blynk App and libaries: https://www.blynk.cc/
