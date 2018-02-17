@@ -1,5 +1,5 @@
 # Garage-Opener-Feather-Huzzah
-Control garage door with phone 
+Allows you to control your garage door with your phone and checks if its open or closed 
 Thingsneeded :
 - Feather Huzzah: https://www.adafruit.com/product/2821  
 - FeatherWing Latching Relay: https://www.adafruit.com/product/2923  
