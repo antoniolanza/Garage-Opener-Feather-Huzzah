@@ -9,17 +9,17 @@ Thingsneeded :
   
  
 Step 1: 
-  Download arduino IDE and install blynk libaries
-  Open sample code in arduino IDE
+  - Download arduino IDE and install blynk libaries
+  - Open sample code in arduino IDE
 
 Step 2:
-  Wire feather and relay as shown in photo
-  Upload code to Feather
+  - Wire feather and relay as shown in photo
+  - Upload code to Feather
   
 Step 3:
-  Add button and lcd in Blynk app
-  Button is on pin V1 as a push button
-  Lcd is on ADVANCED mode on pin V2
+  - Add button and lcd in Blynk app
+  - Button is on pin V1 as a push button
+  - Lcd is on ADVANCED mode on pin V2
 
   
   
