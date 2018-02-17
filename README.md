@@ -15,6 +15,7 @@ Step 1:
 Step 2:
   - Wire feather and relay as shown in photo
   - Upload code to Feather
+  ![Alt text](relative/path/to/Garage.png?raw=true "Title")
   
 Step 3:
   - Add button and lcd in Blynk app
